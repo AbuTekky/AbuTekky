@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **All things Cloud + DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbuTekky](https://github.com/AbuTekky)
-
 - 📝 I'm currently studying for [AWS Certified Cloud Practitioner (CLF-C02)](AWS Certified Cloud Practitioner (CLF-C02))
 
 - 📫 How to reach me **AmirMuhammad_@hotmail.com**
