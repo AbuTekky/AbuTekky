@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **All things Cloud + DevOps**
 
-- 📝 I'm currently studying for [Terraform Associate (003)
+- 📝 I'm currently studying for [Terraform Associate (003)]
 
 - 📫 How to reach me **AmirMuhammad_@hotmail.com**
 
