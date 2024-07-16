@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **All things Cloud + DevOps**
 
-- 📝 I'm currently studying for [AWS Certified Cloud Practitioner (CLF-C02)](AWS Certified Cloud Practitioner (CLF-C02))
+- 📝 I'm currently studying for [Terraform Associate (003)
 
 - 📫 How to reach me **AmirMuhammad_@hotmail.com**
 
