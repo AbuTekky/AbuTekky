@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abutekky&label=Profile%20views&color=0e75b6&style=flat" alt="abutekky" /> </p>
 
-- 🔭 I’m currently working on [Hosting WordPress on EC2](https://github.com/AbuTekky/WordPress-deployment-on-EC2)
+- 🔭 I’m currently working on [Using Terraform to host WordPress on EC2](https://github.com/AbuTekky/Wordpress-deployment-using-Terraform)
 
 - 🌱 I’m currently learning **All things Cloud + DevOps**
 
