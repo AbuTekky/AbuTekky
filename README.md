@@ -2,8 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=3763DA&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amir!;" />
 </h1>
 
+<h3 align="center" style="font-family: 'Righteous', sans-serif; color: #3763DA; font-style: italic;">
+  Passionate Platforms Engineer Based in London 🌍
+</h3>
 
-<h3 align="center">Passionate Platforms Engineer from London</h3>
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abutekky&label=Profile%20views&color=0e75b6&style=flat" alt="abutekky" /> </p>
 
